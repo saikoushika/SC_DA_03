@@ -88,10 +88,15 @@ The dataset includes information such as:
 ---
 
 ## 📸 Dashboard Preview
-- Department Analysis Dashboard
-- Job Role & Gender Analysis
-- HR Employee Attrition Dashboard
 
+### HR Employee Attrition Dashboard
+![Dashboard](Dashboard.png)
+
+### Department Analysis
+![Department Analysis](page1.png)
+
+### Job Role & Gender Analysis
+![Job Role and Gender Analysis](page2.png)
 ---
 
 ## 📌 Conclusion
